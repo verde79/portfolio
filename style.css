@@ -38,6 +38,9 @@ body{
     background-color:lightyellow;
   }
   
+  .project-title{
+    text-align:center;
+  }
   .project-tile>p{
     text-align:center;
   }
