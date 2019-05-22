@@ -44,6 +44,11 @@ body{
   .project-tile>p{
     text-align:center;
   }
+  .project{
+    background-color: cadetblue;
+    padding:20px;
+  }
+
   h1,h2{
     text-align:center;
   }
