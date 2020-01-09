@@ -31,7 +31,7 @@ body{
     grid-gap:50px;
   }
   
-  #projects{
+  #projects,#fcc-projects,#articles,#tutorials{
     padding:30px;
   }
   .project-tile{
